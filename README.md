@@ -3,7 +3,7 @@
 **BenJones621/BenJones621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/188168224?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
+  <img src="https://avatars.githubusercontent.com/u/256350738?v=4" alt="Profile Picture" width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Ben</h1>
